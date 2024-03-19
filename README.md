@@ -8,5 +8,5 @@ This is a simple interest calculator that calculates the simple interest given t
 - `r`: Annual rate of interest
 
 ## Output
-- `simple interest`: Calculated simple interest using the formula: `p * t * r`
+- `simple interest`: `p * t * r`
 
